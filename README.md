@@ -6,7 +6,7 @@ This is a simple web server built with Node.js and Express.
 
 1. Clone the repository:
   
-   git clone https://github.com/nibruad16/stage_1/tree/main/
+   git clone https://github.com/nibruad16/s_one
 
 2. Install dependencies:
 
@@ -32,4 +32,5 @@ Routes
 
 4. Deploy the Server
 
+https://backendstageone-nu.vercel.app/
    
